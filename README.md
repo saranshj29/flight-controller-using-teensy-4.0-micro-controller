@@ -62,11 +62,7 @@ The recommended hardware setup minimizes complexity and soldering while ensuring
 2. **Connect the IMU**: Wire the MPU6050 to the appropriate I2C pins on the Teensy (typically pins 18 and 19).
 3. **Connect ESCs and Servos**: Ensure all motor and servo connections are made according to the pinout configuration.
 
-### 4.2 Wiring Diagram
-![Wiring Diagram](https://example.com/wiring-diagram)  *(Insert a link or actual image of the wiring diagram here)*
 
-### 4.3 Alternative Configurations
-Users may opt for custom setups based on their specific requirements, including using different microcontrollers or sensors. The flexibility of the code allows for modifications to accommodate various hardware.
 
 ## 5. Software Requirements
 
