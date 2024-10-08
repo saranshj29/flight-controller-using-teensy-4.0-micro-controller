@@ -15,3 +15,7 @@ microprocessor features a 600 MHz clock speed enabling a flight control loop rat
 plenty of overhead for custom code additions. The code is compiled and uploaded to the board
 5
 using the simple-to-use Arduino IDE and the Teensyduino add-on
+# Hardware Requirements
+The physical flight controller which runs the dRehmFlight code consists of a Teensy 4.0 microcontroller and MPU6050 6 degree of freedom IMU. Currently, only the Teensy 4.0 board has been
+tested, though the newer 4.1 board with more pinouts should work identically without modification
+to pinouts.
