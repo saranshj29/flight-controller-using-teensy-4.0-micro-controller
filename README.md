@@ -1,7 +1,7 @@
 
 ## 1. Introduction
 
-The **dRehmFlight** project aims to provide a comprehensive toolkit for building and operating VTOL (Vertical Takeoff and Landing) vehicles. It integrates a powerful flight controller with a straightforward coding framework that accommodates users of varying skill levels. The project’s design philosophy prioritizes accessibility, allowing both novices and experienced hobbyists to create their unique VTOL platforms.
+The project aims to provide a comprehensive toolkit for building and operating VTOL (Vertical Takeoff and Landing) vehicles. It integrates a powerful flight controller with a straightforward coding framework that accommodates users of varying skill levels. The project’s design philosophy prioritizes accessibility, allowing both novices and experienced hobbyists to create their unique VTOL platforms.
 
 ## 2. Project Overview
 
